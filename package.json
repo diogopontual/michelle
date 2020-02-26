@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/diogopontual/michelle#readme",
   "dependencies": {
+    "@elastic/elasticsearch": "^7.6.0",
+    "axios": "^0.19.2",
+    "csv-parser": "^2.3.2",
+    "line-reader": "^0.4.0",
     "unzipper": "^0.10.9"
   }
 }
