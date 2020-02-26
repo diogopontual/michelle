@@ -16,9 +16,10 @@ async function begin() {
     }
   });
 }
-async function unzipFile(file, filename) {
+async function unzipFile(path, filename) {
+  console.log("unzipping " + path);
   await fs
-    .createReadStream(file)
+    .createReadStream(path)
     .pipe(unzipper.Extract({ path: homedir + "/ziptmp/" + filename }));
 }
 
