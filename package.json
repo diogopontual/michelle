@@ -23,7 +23,7 @@
     "csv-parser": "^2.3.2",
     "jsdom": "^16.2.0",
     "line-reader": "^0.4.0",
-    "node-wget": "^0.4.3",
-    "unzipper": "^0.10.9"
+    "unzipper": "^0.10.9",
+    "urllib": "^2.34.2"
   }
 }
