@@ -16,10 +16,21 @@ lineReader.eachLine(process.argv[2], function(line, last) {
       porte: line.substr(905, 2),
       dataSituacao: line.substr(225, 8),
       email: line.substr(774, 115).trim(),
+      uf: line.substr(682, 2), 
+      municipio: line.substr(688, 50).trim(),
+      logradouro: line.substr(402, 60).trim(),  
+      tipoLogradouro: line.substr(382, 20).trim(),  
+      numero: line.substr(462, 6).trim(),  
+      complemento: line.substr(468, 156).trim(),  
+      bairro: line.substr(624, 50).trim(),  
+      cep: line.substr(674, 8).trim(),  
+      telefone1: line.substr(738, 12).trim(),  
+      telefone2: line.substr(750, 12).trim(),  
+      codigoMunicipio: line.substr(684, 4).trim(), 
       capital: Number.parseInt(line.substr(891, 14)),
       cnpj: line.substr(3, 14)
     };
-
+    console.log(obj);
     bulk.push({ index: { _index: "cnpj" } }, obj);
     
   }
