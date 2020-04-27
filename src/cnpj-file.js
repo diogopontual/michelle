@@ -19,8 +19,10 @@ lineReader.eachLine(process.argv[2], function(line, last) {
     };
 
     bulk.push({ index: { _index: "cnpj" } }, obj);
+    
   }
-  if (bulk.length > 400 || last) {
+  if (bulk.length > 1000 || last) {
+    console.log('mandando para o elastic');
     client.bulk(
       {
         index: "cnpj",
