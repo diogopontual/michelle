@@ -1,6 +1,6 @@
 const lineReader = require("line-reader");
 const { Client } = require("@elastic/elasticsearch");
-const client = new Client({ node: "http://elastic:B#lah03@bart.diogopontual.com.br:9200" });
+const client = new Client({ node: "http://elastic:senhadoelastic@bart.diogopontual.com.br:9200" });
 let bulk = [];
 count = 0;
 lineReader.eachLine(process.argv[2], function(line, last) {
