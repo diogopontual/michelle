@@ -3,7 +3,7 @@ const fs = require('fs');
 const cheerio = require("cheerio");
 const alphabet = "0abcdefghijklmnopqrstuvwxyz";
 // const alphabet = "v";
-const baseUrl = "https://www.business-humanrights.org/";
+const baseUrl = "https://www.business-humanrights.org";
 for (let i = 0; i < alphabet.length; i++) {
   setTimeout(function() {
     let url = `${baseUrl}/en/find-companies?letter=${alphabet.charAt(i)}`;
@@ -41,9 +41,6 @@ function loadCompany(name, url) {
         console.log(`error ${name}: ${err}`);
         return;
       }
-      // if(name == 'Vale'){
-      //   console.log(data.toString('utf8'));
-      // }
       if (!data) return;
       try {
         $ = cheerio.load(data);

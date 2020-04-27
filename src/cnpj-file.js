@@ -14,6 +14,8 @@ lineReader.eachLine(process.argv[2], function(line, last) {
       situacao: line.substr(223, 2),
       cnae: line.substr(375, 7),
       porte: line.substr(905, 2),
+      dataSituacao: line.substr(225, 8),
+      email: line.substr(774, 115).trim(),
       capital: Number.parseInt(line.substr(891, 14)),
       cnpj: line.substr(3, 14)
     };

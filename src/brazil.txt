@@ -1,5 +1,10 @@
 4Buzz
+99 (part of Didi Chuxing)
 BAESA
+Banco Bradesco
+Banco do Brasil
+Banco Real (part of Santander)
+Bandeirante Energia
 Agro Santa Barbara 
 Agropecuária Rio da Areia 
 Caixa Econômica Federal
@@ -9,17 +14,30 @@ Caramuru
 Casas Bahia
 Bimetal Indústria e Metalúrgica
 Biopalma (part of Vale)
-BNDES
 Bonardi da Amazônia
 Bontan Diamond Corporation
 Alupar
+AmBev (part of Anheuser-Busch InBev)
+BRF
+Eletrobras
+Eletronorte
+Brooksfield
+Farm
+Farm
+Andrade Gutierrez
+Ellus
+Embraer
+Emccamp
 Animale
 Empresa de Saneamento Básico do Estado de São Paulo (Sabesp)
+Fertipar
 CIA. Maritima
-Energia Sustentável do Brasil S.A. (part of ESBR Participações S.A.)
+Fibria
 Duratex SA
+Energia Sustentável do Brasil S.A. (part of ESBR Participações S.A.)
 Aracruz Celulose (now Fibria Celulose)
 Araupel
+Florestas Brasileiras
 Argus Comercio E Exportacao De Alimentos Ltda
 Eternit (Brazil)
 Comigo
@@ -27,23 +45,21 @@ Companhia Hidrelétrica Teles Pires
 Companhia Paranaense de Energia (COPEL)
 Companhia Siderúrgica de Tubarão (CST)
 Companhia Vale do Rio Doce (now Vale)
+Frigorífico Xingara
 Complexo Industrial Portuário de Suape
-Concessionária Porto Novo
-Havaianas
 Aurora Gold
+Concessionária Porto Novo
+Furnas Centrais Elétricas (part of Eletrobras)
+Havaianas
 Consórcio Maracanã Rio 2014 (joint venture Andrade Gutierrez & Odebrecht)
 Consórcio Norte Energia
 Avibras
+Ifood (part of Movile)
 Granol
-IMCOPA
-Hering
 Independencia
 Grupo Big
 Grupo BIHL
-JBS
-Cutrale
 JJ Samara Agronegócios Eireli
-John John
 Itaú Unibanco
 Itaú-BBA
 Le Lis Blanc Deux
@@ -51,6 +67,7 @@ Le Lis Blanc Deux
 M&S Transportes 
 Madeireira Iller
 Malwee
+Lojas Renner SA
 Marfrig Alimentos
 Marisa
 Natura
@@ -63,21 +80,3 @@ Nordisk Timber Eireli
 Osklen
 Norte Amazonia
 Minerva Foods
-Queiroz Galvão
-Moleca
-Raizen (joint venture Shell & Cosan)
-Renner
-Samarco (joint venture BHP Billiton and Vale)
-Riachuelo
-Ronardi
-Umanizzare Gestão Prisional e Serviços
-Uniggel Proteção de Plantas Ltda
-Vale
-Usina Trapiche & Temape Group
-Veracel (joint venture Aracruz Celulose & Stora Enso)
-Via Varejo SA
-Tradelink
-Votorantim
-TV Globo
-Souza Cruz (part of British American Tobacco)
-Suzano Papel e Celulose
