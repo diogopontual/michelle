@@ -30,7 +30,6 @@ lineReader.eachLine(process.argv[2], function(line, last) {
       capital: Number.parseInt(line.substr(891, 14)),
       cnpj: line.substr(3, 14)
     };
-    console.log(obj);
     bulk.push({ index: { _index: "cnpj" } }, obj);
     
   }
