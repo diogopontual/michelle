@@ -20,7 +20,6 @@ const fs = require("fs");
           }
           console.log('Child Process STDOUT: '+stdout);
           console.log('Child Process STDERR: '+stderr);
-        console.log("processado", day, month, year);
         resolve();
       });
     });
