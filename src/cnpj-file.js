@@ -33,7 +33,7 @@ lineReader.eachLine(process.argv[2], function(line, last) {
           console.log(err);
           callback(err);
         } else {
-        //   console.log("items", resp.body.items.length);
+         console.log("items", resp.body.items.length);
         }
       }
     );
