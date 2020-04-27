@@ -1,5 +1,5 @@
 const exec = require("child_process").exec;
-const fs = require("fs").exec;
+const fs = require("fs");
 (async function () {
   for (let i = 0; i <= 20; i--) {
     let folder = `/root/ziptmp/DADOS_ABERTOS_CNPJ_${("000" + i).slice(-2)}.zip/`;
