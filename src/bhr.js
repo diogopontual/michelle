@@ -48,6 +48,7 @@ function loadCompany(name, url) {
         if(country == 'Brazil'){
           fs.appendFileSync('brazil.txt',name + "\n",'utf-8');
         }
+        fs.appendFileSync('todas.txt',name + "||" + (country ? country : 'desconhecido') + "\n",'utf-8');
         let ps = $('.primary p');
         console.log(ps.first().text());
         

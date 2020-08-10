@@ -14,6 +14,7 @@ Caramuru
 Casas Bahia
 Bimetal Indústria e Metalúrgica
 Biopalma (part of Vale)
+BNDES
 Bonardi da Amazônia
 Bontan Diamond Corporation
 Alupar
@@ -21,57 +22,67 @@ AmBev (part of Anheuser-Busch InBev)
 BRF
 Eletrobras
 Eletronorte
-Brooksfield
 Farm
 Farm
-Andrade Gutierrez
 Ellus
+Brooksfield
 Embraer
 Emccamp
+Andrade Gutierrez
 Animale
 Empresa de Saneamento Básico do Estado de São Paulo (Sabesp)
 Fertipar
-CIA. Maritima
 Fibria
-Duratex SA
+CIA. Maritima
 Energia Sustentável do Brasil S.A. (part of ESBR Participações S.A.)
+Duratex SA
 Aracruz Celulose (now Fibria Celulose)
 Araupel
 Florestas Brasileiras
 Argus Comercio E Exportacao De Alimentos Ltda
 Eternit (Brazil)
 Comigo
+Frigorífico Xingara
 Companhia Hidrelétrica Teles Pires
 Companhia Paranaense de Energia (COPEL)
 Companhia Siderúrgica de Tubarão (CST)
+Companhia Siderúrgica Nacional (CSN)
 Companhia Vale do Rio Doce (now Vale)
-Frigorífico Xingara
+Atento (part of Bain Capital)
+Furnas Centrais Elétricas (part of Eletrobras)
 Complexo Industrial Portuário de Suape
+Havaianas
 Aurora Gold
 Concessionária Porto Novo
-Furnas Centrais Elétricas (part of Eletrobras)
-Havaianas
 Consórcio Maracanã Rio 2014 (joint venture Andrade Gutierrez & Odebrecht)
 Consórcio Norte Energia
 Avibras
 Ifood (part of Movile)
 Granol
+IMCOPA
+Hering
 Independencia
 Grupo Big
 Grupo BIHL
+JBS
+Cutrale
 JJ Samara Agronegócios Eireli
+John John
 Itaú Unibanco
 Itaú-BBA
+Klabin
 Le Lis Blanc Deux
 Le Lis Blanc Deux
 M&S Transportes 
 Madeireira Iller
 Malwee
+Liq
 Lojas Renner SA
 Marfrig Alimentos
 Marisa
 Natura
 Natura & Co
+NeoBPO (part of Apax)
 OAS
 Odebrecht
 Olympikus (part of Vulcabras Azaleia)
@@ -80,3 +91,206 @@ Nordisk Timber Eireli
 Osklen
 Norte Amazonia
 Minerva Foods
+Queiroz Galvão
+Pernambukanas
+Moleca
+Petrobras
+Raizen (joint venture Shell & Cosan)
+Renner
+Samarco (joint venture BHP Billiton and Vale)
+Riachuelo
+Ronardi
+Umanizzare Gestão Prisional e Serviços
+Uniggel Proteção de Plantas Ltda
+Vale
+Usina Trapiche & Temape Group
+Veracel (joint venture Aracruz Celulose & Stora Enso)
+Via Varejo SA
+Tradelink
+Votorantim
+TV Globo
+Souza Cruz (part of British American Tobacco)
+Speedmais
+Sucocitrico Cutrale
+Suzano Papel e Celulose
+4Buzz
+99 (part of Didi Chuxing)
+4Buzz
+99 (part of Didi Chuxing)
+Aço Verde Brasil
+BAESA
+Banco Bradesco
+Banco do Brasil
+Banco Real (part of Santander)
+Bandeirante Energia
+Agro Santa Barbara 
+Agropecuária Rio da Areia 
+Caixa Econômica Federal
+Belo Sun
+Benevides Madeiras 
+Caramuru
+Casas Bahia
+Bimetal Indústria e Metalúrgica
+Biopalma (part of Vale)
+Cemig
+BNDES
+Bonardi da Amazônia
+Bontan Diamond Corporation
+Alupar
+AmBev (part of Anheuser-Busch InBev)
+BRF
+Farm
+Farm
+Brooksfield
+Andrade Gutierrez
+Animale
+Fertipar
+Fibria
+CIA. Maritima
+Duratex SA
+Aracruz Celulose (now Fibria Celulose)
+Araupel
+Florestas Brasileiras
+Argus Comercio E Exportacao De Alimentos Ltda
+Comigo
+Frigorífico Xingara
+Companhia Hidrelétrica Teles Pires
+Companhia Paranaense de Energia (COPEL)
+Companhia Siderúrgica de Tubarão (CST)
+Companhia Siderúrgica Nacional (CSN)
+Companhia Vale do Rio Doce (now Vale)
+Atento (part of Bain Capital)
+Furnas Centrais Elétricas (part of Eletrobras)
+Complexo Industrial Portuário de Suape
+Havaianas
+Aurora Gold
+Concessionária Porto Novo
+ICTS
+Consórcio Maracanã Rio 2014 (joint venture Andrade Gutierrez & Odebrecht)
+Consórcio Norte Energia
+Ifood (part of Movile)
+Avibras
+4Buzz
+99 (part of Didi Chuxing)
+Aço Verde Brasil
+BAESA
+Banco Bradesco
+Banco do Brasil
+Banco Real (part of Santander)
+Bandeirante Energia
+Agro Santa Barbara 
+Agropecuária Rio da Areia 
+Caixa Econômica Federal
+Belo Sun
+Benevides Madeiras 
+Caramuru
+Casas Bahia
+Bimetal Indústria e Metalúrgica
+Biopalma (part of Vale)
+Cemig
+BNDES
+Bonardi da Amazônia
+Bontan Diamond Corporation
+Alupar
+AmBev (part of Anheuser-Busch InBev)
+BRF
+Eletrobras
+Eletronorte
+Farm
+Farm
+Ellus
+Embraer
+Emccamp
+Brooksfield
+Andrade Gutierrez
+Animale
+Empresa de Saneamento Básico do Estado de São Paulo (Sabesp)
+Fertipar
+Fibria
+CIA. Maritima
+Energia Sustentável do Brasil S.A. (part of ESBR Participações S.A.)
+Duratex SA
+Aracruz Celulose (now Fibria Celulose)
+Araupel
+Florestas Brasileiras
+Argus Comercio E Exportacao De Alimentos Ltda
+Eternit (Brazil)
+Comigo
+Frigorífico Xingara
+Companhia Hidrelétrica Teles Pires
+Companhia Paranaense de Energia (COPEL)
+Companhia Siderúrgica de Tubarão (CST)
+Companhia Siderúrgica Nacional (CSN)
+Companhia Vale do Rio Doce (now Vale)
+Atento (part of Bain Capital)
+Furnas Centrais Elétricas (part of Eletrobras)
+Complexo Industrial Portuário de Suape
+Havaianas
+Aurora Gold
+Concessionária Porto Novo
+ICTS
+Consórcio Maracanã Rio 2014 (joint venture Andrade Gutierrez & Odebrecht)
+Consórcio Norte Energia
+Ifood (part of Movile)
+Avibras
+Granol
+IMCOPA
+Hering
+Independencia
+Grupo Big
+Grupo BIHL
+Grupo Ipiranga
+JBS
+Grupo Pão de Açúcar - Companhia Brasileira de Distribuição (part of Groupe Casino)
+Cutrale
+JJ Samara Agronegócios Eireli
+John John
+Itaú Unibanco
+Itaú-BBA
+Klabin
+Le Lis Blanc Deux
+Le Lis Blanc Deux
+M&S Transportes 
+Madeireira Iller
+Malwee
+Liq
+Loggi
+Lojas Renner SA
+Marfrig Alimentos
+Marisa
+Natura
+Natura & Co
+Maxi Service
+OAS
+NeoBPO (part of Apax)
+Odebrecht
+Olympikus (part of Vulcabras Azaleia)
+Opps (Ouro Preto Pedra Sabão)
+Nordisk Timber Eireli
+Osklen
+Norte Amazonia
+Minerva Foods
+Queiroz Galvão
+Pernambukanas
+Moleca
+Petrobras
+Mover Participações (formerly Grupo Camargo Corrêa)
+Raizen (joint venture Shell & Cosan)
+Renner
+Samarco (joint venture BHP Billiton and Vale)
+Riachuelo
+Ronardi
+Umanizzare Gestão Prisional e Serviços
+Uniggel Proteção de Plantas Ltda
+Vale
+Usina Trapiche & Temape Group
+Veracel (joint venture Aracruz Celulose & Stora Enso)
+Via Varejo SA
+Viena Siderúrgica S.A
+Tradelink
+Votorantim
+TV Globo
+Souza Cruz (part of British American Tobacco)
+Speedmais
+Sucocitrico Cutrale
+Suzano Papel e Celulose
