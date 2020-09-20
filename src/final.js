@@ -128,7 +128,7 @@ let classify = function (company, cnpj, investment) {
                         classification: classification
                     });
                     process.stdout.write(`total: ${tested} | found: ${output.length}\r`);
-                    // if(output.length > 20){
+                    // if(output.length > 200){
                     //     break;
                     // }
 
@@ -160,6 +160,18 @@ async function searchCNPJ(name) {
                                 "situacao": {
                                     "query": '02'
                                 }
+                            }
+                        }
+                    ],
+                    "must_not": [
+                        {
+                            "match": {
+                                "porte": '01'
+                            }
+                        },
+                        {
+                            "match": {
+                                "porte": '03'
                             }
                         }
                     ],
