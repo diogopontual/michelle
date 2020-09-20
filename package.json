@@ -20,9 +20,13 @@
     "@elastic/elasticsearch": "^7.6.0",
     "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
+    "csv": "^5.3.2",
     "csv-parser": "^2.3.2",
+    "csv-writer": "^1.6.0",
     "jsdom": "^16.2.0",
     "line-reader": "^0.4.0",
+    "node-fetch": "^2.6.1",
+    "remove-accents": "^0.4.2",
     "unzipper": "^0.10.9",
     "urllib": "^2.34.2"
   }

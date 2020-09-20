@@ -1,0 +1,62 @@
+{
+ "metadata": {
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.2-final"
+  },
+  "orig_nbformat": 2,
+  "kernelspec": {
+   "name": "python38264bita62453c0449b4768a408843b17ee52d1",
+   "display_name": "Python 3.8.2 64-bit"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2,
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import requests\n",
+    "r = requests.post('https://www.investmentmap.org/api/affiliates/by-affiliate?economicActivityCode=TT&hostCountryCode=000&investingCountryCode=076&offset=0&limit=300&locale=en')\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": "{'Transfer-Encoding': 'chunked', 'Allow': 'GET', 'Server': 'Microsoft-IIS/10.0', 'X-Powered-By': 'ASP.NET', 'Date': 'Sat, 05 Sep 2020 18:13:29 GMT', 'Strict-Transport-Security': 'max-age=157680000; includeSubDomains'}"
+     },
+     "metadata": {},
+     "execution_count": 15
+    }
+   ],
+   "source": [
+    "r.headers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ]
+}
