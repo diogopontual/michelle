@@ -23,7 +23,7 @@
     "csv": "^5.3.2",
     "csv-parser": "^2.3.2",
     "csv-writer": "^1.6.0",
-    "jsdom": "^16.2.0",
+    "jsdom": "^16.5.0",
     "line-reader": "^0.4.0",
     "node-fetch": "^2.6.1",
     "remove-accents": "^0.4.2",
